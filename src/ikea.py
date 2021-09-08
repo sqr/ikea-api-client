@@ -18,7 +18,6 @@ try:
     send_email("Vallentuna hillared dark grey cushion")
 
 except Exception as ex:
-    send_email("Vallentuna hillared dark grey cushion")
     print("Something went wrong...", ex)
 
 
@@ -29,5 +28,4 @@ try:
     send_email("Vallentuna hillared dark grey cover")
 
 except Exception as ex:
-    send_email("Vallentuna hillared dark grey cover")
     print("Something went wrong...", ex)
